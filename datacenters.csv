@@ -484,6 +484,7 @@
 45.33.224.0,45.33.239.255,Serverlogy Corporation,http://serverlogy.com/
 45.34.0.0,45.35.255.255,Psychz Networks,http://psychz.net/
 45.40.128.0,45.40.191.255,GoDaddy.com Inc,http://www.godaddy.com/
+45.43.128.0,45.43.191.255,Server Network Technologies,http://servernetwork.com/
 45.56.64.0,45.56.127.255,Linode,http://www.linode.com/
 45.59.128.0,45.59.191.255,Roya Hosting,http://www.royahosting.com/
 45.62.192.0,45.62.255.255,KW Datacenter CA,http://www.kwdatacentre.com/
@@ -2040,11 +2041,15 @@
 104.215.224.0,104.215.240.175,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.215.240.192,104.215.240.223,Microsoft Azure,http://www.windowsazure.com/en-us/
 104.215.248.0,104.215.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+104.222.160.0,104.222.191.255,Server Network Technologies,http://servernetwork.com/
+104.233.0.0,104.233.63.255,Server Network Technologies,http://servernetwork.com/
 104.233.64.0,104.233.127.255,KW Datacenter CA,http://www.kwdatacentre.com/
 104.238.128.0,104.238.191.255,Choopa,https://www.choopa.com/
+104.239.0.0,104.239.127.255,Server Network Technologies,http://servernetwork.com/
 104.239.192.0,104.239.223.255,Rackspace,http://www.rackspace.com/
 104.245.96.0,104.245.103.255,VolumeDrive,http://volumedrive.com/
-104.255.64.0,104.255.71.255,Volume Drive,http://volumedrive.com
+104.248.0.0,104.248.255.255,Server Network Technologies,http://servernetwork.com/
+104.255.64.0,104.255.71.255,Volume Drive,http://volumedrive.com/
 106.186.120.0,106.186.127.255,Linode Japan,https://www.linode.com/
 107.6.0.0,107.6.63.255,PEER 1,http://www.peer1.com/
 107.6.64.0,107.6.127.255,Voxel,http://www.voxel.net/
