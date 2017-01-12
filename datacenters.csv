@@ -1,5 +1,6 @@
 5.9.0.0,5.9.255.255,Hetzner Online AG,http://www.hetzner.de/
 5.10.64.0,5.10.127.255,SoftLayer,http://www.softlayer.com/
+5.11.80.0,5.11.87.255,Webzilla,http://webzilla.com/
 5.34.182.0,5.34.183.255,UA Servers,https://itldc.com/
 5.34.240.0,5.34.244.255,webexxpurts.com,http://webexxpurts.com/
 5.34.247.0,5.34.247.255,webexxpurts.com,http://webexxpurts.com/
@@ -1537,6 +1538,7 @@
 78.136.0.0,78.136.63.255,Rackspace,http://www.rackspace.com/
 78.136.64.0,78.136.127.255,ServiHosting Networks S.L.,http://servihosting.es
 78.138.64.0,78.138.127.255,MESH,http://www.mesh.eu/
+78.140.128.0,78.140.191.255,Webzilla,http://webzilla.com/
 78.143.0.0,78.143.63.255,LINK11 Gmbh,http://www.link11.de/
 78.157.192.0,78.157.223.255,UK Dedicated Servers LTD,http://ukservers.com/
 78.159.96.0,78.159.127.255,Leaseweb,http://www.leaseweb.com/
@@ -1693,6 +1695,7 @@
 87.253.128.0,87.253.159.255,transip,https://www.transip.nl/
 88.80.0.0,88.80.31.255,prq.se,http://prq.se/
 88.80.192.0,88.80.223.255,Host Europe,http://www.hosteurope.de/
+88.85.64.0,88.85.95.255,Webzilla,http://webzilla.com/
 88.86.96.0,88.86.127.255,SuperNetwork,http://www.superhosting.cz/
 88.87.32.0,88.87.63.255,availo.no,http://www.availo.no/
 88.148.0.0,88.148.127.255,ServiHosting Networks S.L.,http://servihosting.es
@@ -2605,6 +2608,7 @@
 185.38.12.0,185.38.15.255,yisp Netherlands,http://yisp.nl/
 185.40.4.0,185.40.4.255,Hostgrad,http://hostgrad.ru/
 185.48.120.0,185.48.123.255,Amazon AWS,http://www.amazon.com/aws/
+185.49.144.0,185.49.147.255,Webzilla,http://webzilla.com/
 185.62.190.0,185.62.191.255,BlazingFast,https://blazingfast.io/
 185.86.148.0,185.86.149.255,Yourserver Sweden,https://www.yourserver.se/
 185.86.151.0,185.86.151.255,Yourserver Latvia,https://www.yourserver.se/
@@ -2815,6 +2819,7 @@
 193.150.40.0,193.150.40.255,hostex.lt,http://hostex.lt/
 193.164.16.0,193.164.31.255,PatrikWeb,http://patrikweb.net/
 193.164.131.0,193.164.133.255,Giga-Hosting GmbH,http://giga-hosting.biz/
+193.169.40.0,193.169.41.255,Webzilla,http://webzilla.com/
 193.169.46.0,193.169.47.255,euro-web.com,http://fr.euro-web.com/
 193.169.86.0,193.169.87.255,XServer,https://xserver.ua/
 193.169.188.0,193.169.189.255,hostpro.ua,http://hostpro.ua/
@@ -2868,6 +2873,7 @@
 194.169.227.0,194.169.227.255,superhost.pl,http://superhost.pl/
 194.176.118.0,194.176.118.255,leaderhost.ru,http://leaderhost.ru/
 194.177.20.0,194.177.23.255,Flops,https://flops.ru/
+194.187.96.0,194.187.99.255,Webzilla,http://webzilla.com/
 194.187.164.0,194.187.167.255,accelerated.de,http://accelerated.de/
 195.2.254.0,195.2.255.255,superhost.pl,http://superhost.pl/
 195.12.48.0,195.12.51.255,OpenHosting UK Internet Solutions,http://openhosting.co.uk/
@@ -2915,6 +2921,7 @@
 195.211.108.0,195.211.111.255,Tangram Ukraine,http://tangram.ua/eng/index.html
 195.216.233.0,195.216.233.255,hostex.lt,http://hostex.lt/
 195.225.0.0,195.225.31.255,basefarm.com,http://basefarm.com/
+195.225.54.0,195.225.55.255,Webzilla,http://webzilla.com/
 195.225.104.0,195.225.107.255,Host Europe,http://www.hosteurope.de/
 195.226.196.0,195.226.196.255,Grid Telekom,http://grid.com.tr/
 195.226.218.0,195.226.218.255,data-centr.lv,http://vps-hosting.lv/
@@ -3182,6 +3189,7 @@
 206.41.112.0,206.41.127.255,RisingNet,http://risingnet.net/
 206.41.192.0,206.41.223.255,Datapoint,http://www.datapointinc.com/
 206.51.224.0,206.51.239.255,Hivelocity Hosting,http://www.hivelocity.net/
+206.54.160.0,206.54.191.255,Webzilla,http://webzilla.com/
 206.71.160.0,206.71.191.255,American Internet Services,http://americanis.net/
 206.72.192.0,206.72.207.255,InterServer.net,http://www.interserver.net/
 206.82.192.0,206.82.223.255,latisys,http://www.latisys.com/
