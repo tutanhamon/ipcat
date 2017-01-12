@@ -1056,6 +1056,7 @@
 64.49.192.0,64.49.255.255,Rackspace,http://www.rackspace.com/
 64.50.160.0,64.50.191.255,Lunar Pages,http://www.lunarpages.com/
 64.56.64.0,64.56.79.255,Perfect IP,http://www.perfectip.net/
+64.58.112.0,64.58.127.255,Servers.com,http://www.servers.com/
 64.59.64.0,64.59.127.255,MojoHost,http://www.mojohost.com
 64.62.128.0,64.62.255.255,Hurricane Electric,http://www.he.net/
 64.64.0.0,64.64.31.255,ServInt,http://www.servint.net/
@@ -1205,6 +1206,7 @@
 66.235.215.0,66.235.223.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
 66.240.192.0,66.240.255.255,cari.net,http://cari.net/
 66.241.192.0,66.241.255.255,HostMySite.com,http://www.webmysite.com/
+66.242.0.0,66.242.15.255,Servers.com,http://www.servers.com/
 66.242.128.0,66.242.159.255,Host Depot,http://www.hostdepot.com/
 66.249.0.0,66.249.31.255,The Endurance International Group Inc,http://www.enduranceinternational.com/
 66.252.0.0,66.252.31.255,gigeNET,http://www.gigenet.com/
@@ -2196,7 +2198,8 @@
 141.101.64.0,141.101.127.255,CloudFlare Inc,https://www.cloudflare.com/
 141.105.64.0,141.105.71.255,HostKey,http://www.hostkey.com/
 141.138.136.0,141.138.143.255,transip,https://www.transip.nl/
-142.0.32.0,142.0.47.255,Volume Drive,http://volumedrive.com
+142.0.32.0,142.0.47.255,Volume Drive,http://volumedrive.com/
+142.0.192.0,142.0.207.255,Servers.com,http://www.servers.com/
 142.4.32.0,142.4.63.255,WebNX Internet Services,http://webnx.com/
 142.4.192.0,142.4.223.255,OVH,http://www.ovh.co.uk/
 142.11.192.0,142.11.255.255,hostwinds.com,http://www.hostwinds.com/
@@ -2342,6 +2345,7 @@
 172.240.0.0,172.241.255.255,Ubiquity Server Solutions,http://www.ubiquityservers.com/
 172.245.0.0,172.245.255.255,ColoCrossing,http://www.colocrossing.com/
 173.0.48.0,173.0.63.255,Virpus Networks,http://myvirpus.com/
+173.0.144.0,173.0.159.255,Servers.com,http://www.servers.com/
 173.0.176.0,173.0.191.255,Techie Media,http://techiemedia.net/
 173.1.0.0,173.1.255.255,GoGrid,http://www.gogrid.com/
 173.44.128.0,173.44.255.255,infinitie.net,http://www.serverhub.com/
@@ -2610,6 +2614,7 @@
 185.48.120.0,185.48.123.255,Amazon AWS,http://www.amazon.com/aws/
 185.49.144.0,185.49.147.255,Webzilla,http://webzilla.com/
 185.62.190.0,185.62.191.255,BlazingFast,https://blazingfast.io/
+185.82.208.0,185.82.211.255,Servers.com,http://www.servers.com/
 185.86.148.0,185.86.149.255,Yourserver Sweden,https://www.yourserver.se/
 185.86.151.0,185.86.151.255,Yourserver Latvia,https://www.yourserver.se/
 185.100.84.0,185.100.85.255,FlokiNET Romania,https://www.flokinet.is/en/
@@ -2617,6 +2622,11 @@
 185.101.69.0,185.101.69.255,Depo40,http://depo40.ru/
 185.101.107.0,185.101.107.255,ZET servers Romania,https://zetservers.com/
 185.102.27.0,185.102.27.255,Cloudzilla Netherlands,http://cloudzilla.nl/
+185.105.160.0,185.105.163.255,Servers.com,http://www.servers.com/
+185.106.60.0,185.106.63.255,Servers.com,http://www.servers.com/
+185.106.80.0,185.106.83.255,Servers.com,http://www.servers.com/
+185.106.140.0,185.106.143.255,Servers.com,http://www.servers.com/
+185.106.212.0,185.106.215.255,Servers.com,http://www.servers.com/
 185.108.84.0,185.108.85.255,Ardis Russia,https://ardis.ru/
 185.121.120.0,185.121.121.255,Trabia Network,https://www.trabia.com/
 186.227.162.128,186.227.162.191,Server Green,http://servergreen.com.br/
@@ -3163,6 +3173,7 @@
 204.61.220.0,204.61.223.255,Quasar Data Center,http://quasardata.com/
 204.68.96.0,204.68.127.255,American Internet Services,http://americanis.net/
 204.74.208.0,204.74.223.255,Take 2 Hosting,http://www.take2hosting.com/
+204.74.224.0,204.74.255.255,Servers.com,http://www.servers.com/
 204.93.128.0,204.93.255.255,ServerCentral,http://www.servercentral.net/
 204.109.56.0,204.109.63.255,Tranquil Hosting,http://www.tqhosting.com/
 204.124.180.0,204.124.183.255,Volume Drive,http://volumedrive.com
@@ -3411,6 +3422,7 @@
 209.200.128.0,209.200.191.255,Akamai,http://akamai.com/
 209.200.224.0,209.200.255.255,Lunar Pages,http://www.lunarpages.com/
 209.203.224.0,209.203.255.255,PEER 1,http://www.peer1.com/
+209.205.112.0,209.205.127.255,Servers.com,http://www.servers.com/
 209.213.96.0,209.213.127.255,PEER 1,http://www.peer1.com/
 209.216.0.0,209.216.63.255,HostMySite.com,http://www.webmysite.com/
 209.216.192.0,209.216.255.255,American Internet Services,http://americanis.net/
@@ -3477,6 +3489,7 @@
 213.185.64.0,213.185.95.255,pce-net,http://www.pce.de/
 213.186.32.0,213.186.63.255,OVH,http://www.ovh.co.uk/
 213.193.192.0,213.193.255.255,trueserver.nl,http://trueserver.nl/
+213.196.0.0,213.196.63.255,Servers.com,http://www.servers.com/
 213.199.128.0,213.199.139.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 213.199.180.32,213.199.180.47,Microsoft Azure,http://www.windowsazure.com/en-us/
 213.199.180.112,213.199.180.127,Microsoft Azure,http://www.windowsazure.com/en-us/
